@@ -1,0 +1,31 @@
+
+#the minimum coverage required to retain a variant
+#this is a composite value
+#specify as e.g. "8,50" which means we want at least 8x coverage for at least 50% of the samples
+MIN_COVERAGE=8,50
+
+#a threshold for discarding a variant based on samples having no data
+#e.g. a value of "5" indicates that if more than 5% of samples have no data the variant is removed
+MISSING_SAMPLES_CUTOFF=5
+
+#the minor genotype frequency in the population of samples (not among reads)
+#e.g. a value of 5 means we want at least 5% of samples to have the minor genotype to retain the variant
+MINOR_GENOTYPE_FREQ=0
+
+#the minimum number of samples required with the minor genotype
+#samples have to be homozygous for this
+#this discards SNPs that have been triggered by one or more heterozygous samples only
+MINOR_GENOTYPE_COUNT=1
+
+#the VCF variant quality score cutoff
+#variants with a value of less than this will be removed
+QUAL=30
+
+#the percentage cutoff of samples that have been called as heterozygotes
+#if the variant has a percentage higher than this threshold, it will be discarded
+#this filter only works for species where we are expecting very little heterozygosity and whatever little there is, is expected to have different genomic distribution patterns in every sample
+#this means we can remove SNPs that are caused by mismapping, if we suddenly have lots of samples that are heterozygous at the same location, which is biologically implausible
+PCT_HET_SAMPLES_CUTOFF=2
+
+#a boolean that indicates whether or not we should remove indels
+INDEL_REMOVAL=TRUE
