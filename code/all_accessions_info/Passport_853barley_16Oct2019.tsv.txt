@@ -1,0 +1,816 @@
+ACCESSION	CLADE	GROUP.NUM	GROUP.ROW	CATEGORY	ROWTYPE	SOURCE	COUNTRY	LATTITUDE	LONGTITUDE	"PCoA, Axis 1"	"PCoA, Axis 2"	"PCoA, Axis 3"	CLADE.OLD	VARIETY	OTHER.ACC	HABIT
+131-P1356061	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Ethiopia	9.030	38.740	-0.0048628	-0.0059835	-0.0031111	1			
+38-PI356226	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Morocco	34.250	-6.480	-0.0076267	0.0031799	-0.00079961	1			
+B1K-03-04	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.412	34.878	0.0056746	0.011069	-0.012006	3			
+B1K-03-07	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.412	34.878	0.0095305	0.012151	-0.010447	3			
+B1K-03-09	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.412	34.878	0.009725	0.0077755	-0.010814	3			
+B1K-04-08	7	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.835	35.306	0.012324	0.0018466	-0.011737	6			
+B1K-04-12	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.835	35.306	0.0113	0.0030797	-0.013413	8			
+B1K-04-13	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.835	35.306	0.011914	0.0044745	-0.014171	8			
+B1K-07-02	7	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.342	35.516	0.0075551	0.0015004	-0.0083346	6			
+B1K-07-11	7	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.342	35.516	0.0098069	0.00074818	-0.0074052	6			
+B1K-07-17	7	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.342	35.516	0.011341	0.0020032	-0.0091875	6			
+B1K-10-01	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.697	34.584	0.015068	0.0086473	-0.013684	4			
+B1K-10-05	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.697	34.584	0.013693	0.0089363	-0.013264	4			
+B1K-10-10	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.697	34.584	0.014536	0.0073742	-0.012651	8			
+B1K-14-13	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.779	35.661	0.016129	0.0077196	-0.00046899	10			
+B1K-14-17	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.779	35.661	0.017586	0.0064631	-0.00099939	10			
+B1K-15-07	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.691	35.662	0.01525	0.0057554	-0.0016986	10			
+B1K-15-15	2	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.691	35.662	0.016994	0.0035693	0.0041663	2			
+B1K-15-19	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.691	35.662	0.020405	0.0034989	-0.0035962	10			
+B1K-16-01	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.347	35.122	0.016328	0.0060091	-0.0073229	8			
+B1K-16-10	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.347	35.122	0.014083	0.0069279	-0.0083324	8			
+B1K-16-15	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.347	35.122	0.012707	0.0063596	-0.0058911	8			
+B1K-17-07	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.538	34.891	0.016402	0.010661	-0.010085	4			
+B1K-17-10	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.538	34.891	0.013533	0.012781	-0.012111	4			
+B1K-17-17	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.538	34.891	0.015031	0.010181	-0.011308	4			
+B1K-19-01	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.918	35.022	0.017373	0.0056986	-0.0040558	10			
+B1K-19-12	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.918	35.022	0.015043	0.0099914	-0.0084184	10			
+B1K-20-17	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.618	34.931	0.01741	0.0058881	-0.0043199	10			
+B1K-21-20	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.653	34.974	0.016411	0.013172	-0.0068979	11			
+B1K-25-01	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.463	35.434	0.012038	0.0071573	-0.008435	9			
+B1K-25-15	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.463	35.434	0.011206	0.0065628	-0.0094548	9			
+B1K-25-20	8	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.463	35.434	0.014063	0.0066029	-0.0074129	9			
+B1K-26-08	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.748	35.639	0.015229	0.0046097	-0.0035799	10			
+B1K-26-16	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.748	35.639	0.017525	0.0028325	0.00043552	10			
+B1K-26-17	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.748	35.639	0.016563	0.0064728	-0.0035928	10			
+B1K-27-08	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.875	35.544	0.017415	0.01309	-0.0041591	11			
+B1K-27-15	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.875	35.544	0.018374	0.010073	-0.009289	11			
+B1K-28-10	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.824	35.496	0.019221	0.013569	-0.01154	11			
+B1K-28-17	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.824	35.496	0.016146	0.01376	-0.011205	11			
+B1K-29-04	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.824	35.496	0.017348	0.011849	-0.008621	11			
+B1K-29-13	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.824	35.496	0.018247	0.014763	-0.011792	11			
+B1K-29-20	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.824	35.496	0.020044	0.012619	-0.0082486	11			
+B1K-30-03	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.715	34.977	0.020762	0.011081	-0.0079458	10			
+B1K-30-07	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.715	34.977	0.01456	0.010511	-0.0066355	11			
+B1K-30-13	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.715	34.977	0.014393	0.011368	-0.0075287	4			
+B1K-31-01	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.773	35.447	0.01187	0.0053662	-0.011039	3			
+B1K-31-05	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.773	35.447	0.0091028	0.0027671	-0.0077599	3			
+B1K-31-19	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.773	35.447	0.0092122	0.0025027	-0.0080557	3			
+B1K-32-02	2	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.578	35.471	0.01313	0.0019816	-0.0001184	2			
+B1K-32-13	2	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.578	35.471	0.013804	0.0067441	-0.0038461	2			
+B1K-33-03	4	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	30.572	34.677	0.0090528	0.0029961	-0.0081991	3			
+B1K-33-09	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	30.572	34.677	0.015954	0.014391	-0.0083455	11			
+B1K-33-13	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	30.572	34.677	0.018026	0.012506	-0.0082064	11			
+B1K-35-11	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.597	34.899	0.014522	0.0083367	-0.0099891	4			
+B1K-35-16	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.597	34.899	0.012267	0.010572	-0.010387	4			
+B1K-35-19	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.597	34.899	0.011693	0.010947	-0.011541	4			
+B1K-37-06	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.906	35.607	0.015646	0.0082474	-0.0076138	11			
+B1K-37-11	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.906	35.607	0.019013	0.010639	-0.0090652	11			
+B1K-37-15	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.906	35.607	0.017785	0.011836	-0.008736	11			
+B1K-38-01	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.944	35.702	0.014611	0.0089239	-0.0066555	11			
+B1K-38-08	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.944	35.702	0.018305	0.0071368	-0.002336	10			
+B1K-38-14	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.944	35.702	0.016627	0.0083101	-0.0018016	11			
+B1K-41-08	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.251	35.648	0.020755	0.011903	-0.010504	11			
+B1K-41-13	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.251	35.648	0.016657	0.0099627	-0.0056272	11			
+B1K-41-18	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.251	35.648	0.019808	0.0097791	-0.0058517	11			
+B1K-42-01	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.140	35.630	0.019228	0.0094978	-0.0028225	11			
+B1K-42-07	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.140	35.630	0.016715	0.0090812	-0.0025742	10			
+B1K-42-16	10	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	33.140	35.630	0.016485	0.01136	-0.0028448	10			
+B1K-44-07	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.988	35.190	0.012165	0.011006	-0.008877	4			
+B1K-44-09	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.988	35.190	0.014242	0.012941	-0.0067348	11			
+B1K-44-13	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.988	35.190	0.01594	0.010436	-0.007186	11			
+B1K-48-11	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.690	35.013	0.011755	0.0137	-0.0079522	4			
+B1K-48-16	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.690	35.013	0.015334	0.010789	-0.0075656	4			
+B1K-48-19	5	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	31.690	35.013	0.015749	0.011323	-0.013439	4			
+B1K-51-01	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.974	35.424	0.015338	0.013218	-0.0038885	11			
+B1K-51-07	9	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.974	35.424	0.016846	0.010339	-0.0028056	11			
+B1K-51-13	3	5	Spontaneum	Spontaneum	Spont	B1K Israel - Spontaneum	Israel	32.974	35.424	0.018403	-0.0072902	0.0094709	3			
+BCC003	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Afghanistan	34.633	65.750	-0.006633	-0.0038994	-0.00033386	1			
+BCC103	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Jordan	32.117	36.267	-0.00060563	-0.014795	-0.0070431	5			
+BCC105	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Jordan	31.283	35.833	-0.0025773	-0.00037567	0.0030644	10			
+BCC107	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Lebanon	33.933	36.100	-0.00087099	0.0039713	0.00032501	10			
+BCC108	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Lebanon	34.333	35.733	-0.011265	0.0063324	0.00020217	1			
+BCC110	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Lebanon	34.433	36.050	-0.011069	0.0067618	0.00045235	1			
+BCC126	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Morocco	31.370	-5.790	-0.0075061	0.0049325	-0.0028163	1			
+BCC131	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Morocco	32.050	-3.050	-0.010207	0.0037964	-0.0021336	1			
+BCC1481	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Russia	61.783	34.350	-0.0095468	-0.00083405	0.00063784	1			
+BCC1487	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Russia	42.975	47.502	-0.0094085	0.00027424	0.003414	1			
+BCC1488	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Russia	51.000	142.640	-0.0063079	0.00079796	0.00028334	1			
+BCC1494	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Kazakhstan	50.298	57.181	-0.0099893	0.0027558	0.0019359	1			
+BCC1503	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkmenistan	37.942	58.384	-0.0077991	0.0021174	0.0022243	1			
+BCC1589	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Italy	37.933	12.733	-0.0092804	0.0018154	0.0035387	1			
+BCC167	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Oman	22.667	57.333	-0.0070872	0.0020393	0.0013989	1			
+BCC168	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Oman	23.167	57.667	-0.0090585	0.0027454	0.0014899	1			
+BCC169	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Oman	22.720	57.250	-0.010091	0.0026749	0.00097183	1			
+BCC182	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Pakistan	36.300	73.367	0.0049881	-0.013997	-0.015283	5			
+BCC185	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Saudi Arabia	24.633	46.717	-0.0035359	-0.014946	-0.0072935	5			
+BCC190	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Syria	36.833	40.072	-0.0048271	-0.0010678	0.0045144	1			
+BCC192	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Syria	36.383	38.960	-0.0016373	0.00046662	0.0019936	1			
+BCC195	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Syria	33.817	36.544	-0.0011205	0.0021055	0.0010118	1			
+BCC197	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Syria	36.117	36.463	0.00018217	0.0023515	-0.0014763	10			
+BCC21	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Egypt	28.312	30.710	-0.010474	0.004046	0.0016141	1			
+BCC42	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Algeria	34.217	-1.250	-0.0059871	0.00028326	0.0037122	1			
+BCC51	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Egypt	30.567	34.483	-0.012147	0.0043518	-0.0026378	1			
+BCC54	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Egypt	30.817	32.517	-0.0071033	0.004009	-0.0027031	1			
+BCC761	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Nepal	28.356	83.736	-0.00089043	-0.014585	-0.0076728	5			
+FT037	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.401	34.473	0.014589	0.007355	-0.012769	8			
+FT045	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.673	35.437	0.011937	0.0015608	-0.012534	6			
+FT067	5	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.537	34.890	0.016522	0.0096705	-0.01093	4			
+FT11	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.835	35.305	0.011563	0.0030043	-0.013771	8			
+FT144	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	30.572	34.680	0.018829	0.01395	-0.0087199	11			
+FT147	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	30.845	34.744	0.01026	0.0066015	-0.014667	3			
+FT172	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	33.229	35.731	0.017793	0.0089135	-0.0056425	11			
+FT175	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	33.251	35.646	0.020336	0.0083552	-0.0094942	11			
+FT18	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	32.069	35.399	0.015805	0.0033653	-0.011118	8			
+FT218	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.772	35.113	0.014843	0.0069298	-0.012382	3			
+FT219	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	33.287	35.764	0.016294	0.0054708	-0.0048921	11			
+FT222	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	32.974	35.424	0.015768	0.0095525	-0.0023434	11			
+FT226	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Israel	31.779	35.224	-0.0099405	0.0020503	0.004728	1			
+FT229	5	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	36.400	44.150	0.01558	0.0037791	-0.0087802	4			
+FT230	10	3	Spontaneum	Spontaneum	Spont	Spont	Iraq	35.033	45.717	-0.00055248	0.0013271	-0.00093905	10			
+FT232	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	36.417	41.650	0.016556	-0.0023054	0.010079	11			
+FT248	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	31.676	48.579	0.012386	-0.0082032	0.0037388	8			
+FT252	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.250	44.483	0.017999	0.00063211	0.010521	11			
+FT262	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.781	37.283	0.017766	0.0043757	0.0075029	3			
+FT268	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	35.167	38.881	0.012872	-0.0073592	0.011525	3			
+FT270	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	33.654	36.836	0.017158	0.0038477	-0.0040807	10			
+FT272	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Jordan	32.217	36.050	0.016916	0.0041219	-0.0039498	10			
+FT276	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Jordan	32.583	35.667	0.014788	0.0028251	-0.0029284	10			
+FT279	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Afghanistan	35.750	69.000	0.020351	-0.004548	0.016743	3			
+FT286	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	30.067	50.833	0.013541	0.0080809	-0.010176	8			
+FT31	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.698	34.585	0.010167	0.0057903	-0.0058696	3			
+FT333	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	35.983	59.483	0.014801	-0.0087362	0.011532	3			
+FT338	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	33.000	35.417	0.019247	0.010258	-0.0063269	10			
+FT340	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.500	34.700	0.017603	0.010292	-0.0083173	10			
+FT359	2	4	Landrace 6-row	Landrace	6	ExCAP landrace	Morocco	34.020	-6.830	-0.0096326	0.0064567	-0.0015871	2			
+FT361	2	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Greece	36.400	28.167	0.0070828	0.0079763	-0.0041595	2			
+FT363	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Cyprus	34.983	34.017	0.010536	0.002989	-0.0057833	6			
+FT376	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkmenistan	35.276	62.342	0.018298	-0.0094317	0.014315	3			
+FT380	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Egypt	31.350	27.233	-0.0040485	-0.00060907	0.0043035	1			
+FT388	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	China	29.650	91.100	0.0055504	-0.014267	-0.012624	5			
+FT389	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	China	30.970	101.150	0.013082	-0.008512	0.0056931	8			
+FT393	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	32.743	35.445	0.013968	0.007756	-0.0072217	9			
+FT411	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Switzerland	46.314	7.851	-0.0044174	-0.00097385	0.0012454	1			
+FT414	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Yemen	15.360	44.210	-0.0054733	-0.004516	-0.0029565	1			
+FT42	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	30.890	34.631	0.014824	0.0050453	-0.012384	8			
+FT462	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.778	39.780	0.017444	0.00010114	0.011472	10			
+FT469	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.553	39.702	0.021663	-0.0025744	0.01365	10			
+FT470	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.332	40.771	0.02175	0.0013857	0.012672	11			
+FT473	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.658	37.787	0.018604	0.0041838	0.0056019	10			
+FT507	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	36.383	43.417	0.020399	-0.0081717	0.020356	3			
+FT512	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	35.606	35.821	0.016275	0.0030428	0.0008118	10			
+FT519	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	China	31.000	112.000	-0.010716	0.0031562	0.00297	1			
+FT520	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Kyrgyzstan	42.819	75.281	-0.0092189	-0.00002008	0.0017242	1			
+FT521	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	42.733	2.683	-0.010424	0.0049192	0.0024472	1			
+FT523	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkmenistan	41.600	60.150	0.0030059	-0.019999	-0.011706	5			
+FT524	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Democratic People's Republic of Korea	39.500	126.400	0.0023928	-0.012029	-0.0063545	5			
+FT525	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Turkey	37.029	37.990	-0.0011482	-0.0010029	0.0031285	1			
+FT539	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkey	37.572	44.283	-0.0033597	-0.0077213	-0.0030389	1			
+FT549	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Jordan	31.717	35.800	-0.0029909	0.0035516	-0.00086818	10			
+FT553	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Israel	31.767	35.233	0.00020807	-0.00059631	-0.0022637	10			
+FT554	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Tajikistan	37.333	68.667	0.0076019	-0.014124	-0.016426	5			
+FT555	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkey	39.183	41.167	-0.0094569	0.0052208	0.0021455	1			
+FT56	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	32.781	35.660	0.016809	0.0080647	-0.00043855	10			
+FT561	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Nepal	29.250	80.917	0.0013985	-0.016554	-0.012032	5			
+FT566	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkmenistan	38.417	56.683	0.015277	-0.0083837	-0.0054545	8			
+FT567	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkmenistan	41.050	61.883	0.016107	-0.0070509	-0.0070101	8			
+FT568	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Afghanistan	34.500	63.183	0.015692	-0.0072914	-0.0060704	8			
+FT572	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Jordan	30.667	35.633	0.00987	-0.0017142	-0.0079523	11			
+FT578	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	40.650	43.100	0.018474	0.00044623	0.0095408	11			
+FT581	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.967	41.717	0.021116	0.00048416	0.01094	10			
+FT582	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	37.093	42.099	0.022582	-0.0049377	0.015844	10			
+FT584	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	36.967	40.498	0.021461	-0.0068851	0.015145	3			
+FT589	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	35.029	37.007	0.01494	0.0033195	0.0019909	3			
+FT590	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	35.013	36.703	0.014076	0.0026467	0.0036894	10			
+FT592	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	37.074	41.086	0.019469	-0.0077913	0.015303	3			
+FT595	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	36.333	42.167	0.019588	-0.0076159	0.016977	3			
+FT604	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	36.083	43.167	0.020228	-0.0092724	0.019731	3			
+FT611	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	35.500	51.250	0.017695	-0.0060881	0.015604	3			
+FT613	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	32.550	49.830	0.01417	-0.0048256	-0.0011384	6			
+FT616	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	32.189	48.258	0.012623	-0.01022	0.0068382	11			
+FT626	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Jordan	32.100	35.717	0.016201	0.0062597	-0.0091794	8			
+FT627	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Jordan	32.017	35.900	0.012031	0.0039673	-0.0068992	6			
+FT628	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	32.596	36.379	0.015715	0.0050499	-0.00057948	10			
+FT630	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Lebanon	33.467	35.867	0.015554	0.0017566	-0.0030763	10			
+FT631	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Lebanon	33.933	36.100	0.015272	0.0053343	-0.0038202	10			
+FT632	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Syria	37.078	42.071	0.020375	-0.0069716	0.014533	3			
+FT64	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.347	35.123	0.0124	0.0059495	-0.0056718	8			
+FT643	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.673	35.437	0.01223	0.000355	-0.011521	6			
+FT657	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	29.608	52.525	0.012967	-0.0115	0.00071149	11			
+FT658	8	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iraq	35.367	43.200	0.011493	-0.0065431	0.0043654	8			
+FT660	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	36.750	45.700	0.015906	-0.0039761	0.011734	3			
+FT661	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	38.500	47.200	0.016348	-0.0031968	0.008852	3			
+FT670	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.992	36.932	0.019593	0.0037019	0.0069937	3			
+FT671	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Lebanon	33.833	35.917	0.014169	0.0046649	-0.00045222	10			
+FT730	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.329	37.275	0.016654	0.0010459	0.0089378	3			
+FT731	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.424	37.281	0.017513	0.0057772	0.0067687	10			
+FT733	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.256	36.467	0.014378	0.00067761	0.00030468	10			
+FT734	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.410	38.779	0.023282	-0.00012803	0.009839	10			
+FT735	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.792	39.955	0.0212	-0.0034148	0.010772	10			
+FT741	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.681	41.453	0.016453	-0.0013983	0.013709	3			
+FT746	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.979	36.728	0.017455	0.003371	0.0039977	3			
+FT747	4	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.866	36.952	0.014566	0.0015399	0.0029704	3			
+FT748	10	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	37.315	37.735	0.021827	0.0038494	0.0065606	10			
+FT75	7	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Israel	31.437	34.888	0.013483	0.0079674	-0.012217	6			
+FT754	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Turkey	36.950	40.001	0.019944	-0.0073878	0.013175	3			
+FT871	9	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Uzbekistan	40.071	67.693	0.022803	-0.0081015	-0.000069917	11			
+FT873	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Uzbekistan	38.311	66.625	0.020786	-0.0074763	0.015805	3			
+FT875	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Uzbekistan	38.075	67.436	0.023374	-0.0049626	0.014631	3			
+FT878	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	34.443	46.019	0.015976	-0.0077658	0.011818	3			
+FT879	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	34.526	45.943	0.015362	-0.0091106	0.011	3			
+FT880	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Iran	35.272	47.029	0.017961	-0.0065299	0.017626	3			
+FT885	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Tajikistan	38.624	68.614	0.021171	-0.0067389	0.019541	3			
+FT886	3	5	Spontaneum	Spontaneum	Spont	ExCAP spont	Tajikistan	38.342	69.239	0.020247	-0.010638	0.019026	3			
+HID004	10	5	Spontaneum	Spontaneum	Spont	Spont	Iraq	35.580	43.240	0.022084	-0.0095588	0.020601	10			
+HID055	9	5	Spontaneum	Spontaneum	Spont	Spont	Turkey	36.850	40.030	0.019388	0.013112	-0.0074671	11			
+HID062	4	5	Spontaneum	Spontaneum	Spont	Spont	Turkey	36.850	37.150	0.01703	0.0047431	0.0080229	3			
+HID069	3	5	Spontaneum	Spontaneum	Spont	Spont	Turkey	36.850	37.520	0.017946	-0.0040543	0.015182	3			
+HID080	10	5	Spontaneum	Spontaneum	Spont	Spont	Turkey	37.320	37.490	0.016843	0.0038225	0.0072935	10			
+HID294	3	5	Spontaneum	Spontaneum	Spont	Spont	Iran	33.110	46.170	0.02054	-0.0046276	0.021026	3		HID294	
+HID358	10	5	Spontaneum	Spontaneum	Spont	Spont	Turkey	37.890	39.900	0.019707	-0.00095122	0.0053303	10		HID358	
+HOR10103	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Libya	25.916	13.918	-0.0094449	0.0017907	-0.00016138	1			
+HOR10130	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Libya	30.133	9.500	-0.010584	0.0042663	0.00095908	1			
+HOR10152	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Libya	26.226	14.883	-0.0076691	0.0034819	-0.0017961	1			
+HOR10280	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Libya	26.803	13.533	-0.011744	0.0035595	0.0019325	1		HOR10280	Spring
+HOR10350	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Ethiopia	8.150	36.470	-0.0044287	-0.0068098	-0.0029854	1			
+HOR10360	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Georgia	43.050	42.717	-0.0072982	-0.0036314	-0.0012269	1			
+HOR10410	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Poland	52.406	21.332	-0.0070897	-0.0001455	0.002988	1			
+HOR10551	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Italy	37.579	13.752	-0.010096	0.0060214	0.00024438	1			
+HOR10609	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Iraq	36.166	43.257	0.00058538	-0.014604	-0.0077617	5			
+HOR10610	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iraq	36.443	43.257	-0.003764	-0.0013739	0.004007	1			
+HOR10627	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Iraq	34.833	42.000	0.0021421	-0.014498	-0.0087484	5			
+HOR10705	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Georgia	42.177	44.729	-0.0095676	0.00086042	0.0020955	1			
+HOR10761	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Ethiopia	5.633	38.233	-0.0047393	-0.0072483	-0.0037902	1		HOR10761	Spring
+HOR10782	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Italy	41.902	13.883	-0.010752	0.0010605	0.0019217	1			
+HOR11317	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Israel	31.716	35.187	-0.00056743	0.004962	0.00030768	10			
+HOR1133	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	France	46.217	2.214	-0.01475	0.0065409	0.0032866	1			
+HOR11403	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	India	31.100	77.167	0.0034564	-0.014393	-0.011035	5			
+HOR1192	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkey	38.293	29.006	-0.013065	0.0032129	0.0021868	1			
+HOR12762	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Uzbekistan	38.283	67.900	-0.0068161	0.0073629	0.0025937	1			
+HOR12830	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Syria	36.701	38.087	-0.0081335	0.0064453	0.0013695	1			
+HOR13416	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Morocco	31.050	-8.833	-0.0122	0.0047392	-0.00013605	1			
+HOR14153	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Chad	12.043	18.792	-0.005592	0.0032892	0.00011782	1			
+HOR14279	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Eritrea	14.698	39.429	-0.0099913	0.0060321	-0.0006714	1			
+HOR1431	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Afghanistan	34.860	71.140	-0.0004876	-0.0093708	-0.0062349	1			
+HOR1463	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Afghanistan	35.910	71.310	0.0046931	-0.014465	-0.013325	5			
+HOR154	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Pakistan	31.417	73.083	-0.0071839	-0.0024416	0.00052381	1			
+HOR1707	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Afghanistan	35.910	71.520	-0.0043194	-0.0024402	-0.0010932	1			
+HOR1804	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Afghanistan	35.000	71.150	0.0040702	-0.018237	-0.012957	5			
+HOR1842	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	Afghanistan	36.270	72.380	0.0037324	-0.019654	-0.014283	5			
+HOR203	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Ukraine	50.099	36.487	-0.012033	-0.0018635	0.0018444	1			
+HOR2351	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	China	34.765	113.650	-0.0072298	-0.00057462	0.0043297	1			
+HOR2458	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	China	29.650	91.100	-0.00069936	-0.0085681	-0.0075823	5			
+HOR2462	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	China	29.430	94.450	0.0046413	-0.018284	-0.012051	5			
+HOR2465	6	4	Landrace 6-row	Landrace	6	ExCAP landrace	China	29.650	91.100	0.0044776	-0.015657	-0.012986	5			
+HOR2766	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Libya	24.050	23.310	-0.0099451	0.0017626	-0.0016208	1			
+HOR2777	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	37.633	47.800	-0.0011857	-0.010145	-0.0064101	1			
+HOR2785	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	35.600	51.867	-0.0053001	-0.0030753	-0.0010815	1			
+HOR2792	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	30.517	50.850	-0.0020651	-0.0032613	-0.00033751	1			
+HOR2800	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Iran	31.533	48.817	-0.0015941	-0.012897	-0.0057229	1			
+HOR2808	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	33.567	50.850	-0.0045498	-0.0024163	0.00036818	1			
+HOR2829	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	34.583	48.817	-0.0053097	-0.0025342	-0.00088588	1			
+HOR2867	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Iran	37.633	58.983	-0.0045007	-0.0017574	-0.00083158	1			
+HOR354	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Germany	47.983	9.117	-0.0090942	0.0011097	0.00202	1			
+HOR383	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Bulgaria	43.854	25.959	-0.0081756	0.0044789	0.002828	1			
+HOR3938	2	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	28.210	-16.780	-0.011893	0.006402	-0.00089739	2			
+HOR3950	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Austria	47.006	13.167	-0.0062859	-0.0017291	0.00052058	1			
+HOR396	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Bulgaria	42.314	27.767	-0.011166	0.0016411	0.0027367	1			
+HOR4469	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Syria	32.685	36.033	-0.0022905	0.004715	-0.0017271	10			
+HOR454	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Turkey	40.410	27.917	-0.0076004	0.00058482	0.0016753	1			
+HOR4720	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Latvia	56.648	23.714	-0.009956	0.0024605	0.0037858	1			
+HOR4724	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Armenia	40.183	44.517	-0.0067198	-0.0030382	-0.00027339	1			
+HOR5702	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Ethiopia	7.667	36.833	-0.0044064	-0.0072861	-0.0037388	1			
+HOR6360	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Ethiopia	7.467	36.883	-0.0043342	-0.0064314	-0.004278	1			
+HOR713	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Greece	37.667	22.183	-0.011167	0.0053067	0.0014898	1			
+HOR7380	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Czech Republic	49.520	18.832	-0.010943	0.0025446	0.003335	1			
+HOR742	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Bosnia and Herzegovina	43.867	18.417	-0.0086175	0.0025492	0.0027233	1			
+HOR7436	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Slovakia	49.357	18.893	-0.0071523	0.0011077	0.0005462	1			
+HOR756	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Albania	40.788	20.189	-0.010681	0.0019593	0.0044003	1			
+HOR758	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Macedonia	42.004	21.452	-0.0095264	0.0019636	0.0038137	1			
+HOR7969	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Turkey	38.000	37.000	-0.0083991	0.000036045	0.0023762	1			
+HOR8113	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Turkey	39.250	29.500	-0.0064909	0.00043276	0.0015811	1			
+HOR8455	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Iraq	30.500	47.817	-0.0053047	-0.014868	-0.0041802	1			
+HOR8635	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Slovakia	48.528	22.141	-0.010432	0.0011938	0.004618	1			
+HOR8658	10	3	Landrace 2-row	Landrace	2	ExCAP landrace	Egypt	31.193	29.904	-0.00062253	0.0047876	-0.00033816	10			
+HOR8826	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Poland	49.421	20.959	-0.0084982	0.00036669	0.00084763	1			
+HOR8827	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Poland	49.633	20.600	-0.0031508	-0.0076829	-0.0041905	1			
+HOR8842	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	37.573	-6.753	-0.010788	0.004433	0.00020985	1			
+HOR902	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Turkey	41.293	36.331	-0.0059135	0.00023872	0.0022805	1			
+HOR937	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Greece	39.074	21.824	-0.011089	-0.0019873	0.0015716	1			
+HOR9453	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Romania	46.777	23.600	-0.0096093	0.0023409	0.0033697	1			
+HOR9607	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Georgia	42.300	43.350	-0.0032404	-0.0026974	-0.0012968	1			
+HOR9827	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Libya	32.687	13.983	-0.011316	0.0057193	0.0006016	1			
+HOR9919	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	France	45.432	6.306	-0.0082965	0.0025163	0.004503	1			
+SBCC002	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	42.850	-2.670	-0.0097669	0.0041979	0.0032071	1			
+SBCC003	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	40.630	-3.150	-0.010198	0.0032006	-0.00027124	1			
+SBCC014	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	37.530	-5.070	-0.0090478	0.0059366	-0.0018617	1			
+SBCC095	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	40.980	-6.850	-0.0081757	0.0037544	-0.00089754	1			
+SBCC144	1	4	Landrace 6-row	Landrace	6	ExCAP landrace	Spain	28.800	-17.810	-0.0099509	0.0045117	-0.00085026	1			
+SBCC147	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Spain	43.070	-4.770	-0.0109	0.0010683	0.00268	1			
+SBCC158	1	3	Landrace 2-row	Landrace	2	ExCAP landrace	Spain	41.980	1.520	-0.010954	0.0032163	0.0020873	1			
+WB-029	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.00777	0.0023017	0.0034013	1	Tremois		Spring
+WB-057	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010863	0.00020041	0.004135	1		HOR 3271	Spring
+WB-1	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.010418	0.00073353	0.0016622	1			
+WB-10	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0081939	0.0017583	0.00091722	1			
+WB-100	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011367	0.0019503	0.0054782	1	Barke IPK (Seq)		Spring
+WB-101	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	USA	48.507	-111.856	-0.0051999	0.00036138	0.00026895	1	Morex IPK (Seq)		Spring
+WB-102	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011218	0.0014261	0.0043941	1	Beatrix-gebeizt		Spring
+WB-103	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.013399	0.0010793	0.003889	1	Djamila-gebeizt		Spring
+WB-104	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.0094314	-0.000064742	0.0040065	1	Eunova-gebeizt		Spring
+WB-105	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.012191	0.0016092	0.0052256	1	Streif-gebeizt		Spring
+WB-106	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011769	0.00080275	0.0022282	1	Ursa-gebeizt		Spring
+WB-107	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.011706	-0.00026947	0.0033226	1	Victoriana-gebeizt		Spring
+WB-108	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	35.900	39.020	-0.0038622	0.00067913	0.0054155	1	Tadmor-IPK		Spring
+WB-109	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	35.900	39.020	-0.0062915	0.0024963	0.0030179	1	Arta-IPK		Spring
+WB-11	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.010504	0.0037733	0.0035158	1			
+WB-111	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iraq	36.444	43.257	-0.01528	0.0019471	0.0012986	1	IQ 70061	BCC 0093	Facultative
+WB-112	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	26.470	14.360	-0.010353	0.0034044	-0.0021881	1	IG 128216	BCC 0118	facultative?
+WB-113	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.370	-5.790	-0.0085189	0.0046573	-0.0026278	1	IG 31903	BCC 0126	facultative?
+WB-114	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	33.633	-6.283	-0.008498	0.0062796	-0.00097974	1	IG 31925	BCC 0129	facultative?
+WB-115	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	34.433	-4.650	-0.0098815	0.0057326	0.00038235	1	IG 32019	BCC 0149	Winter
+WB-116	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	34.950	2.330	-0.014326	0.0053858	-0.0003927	1	IG 32086	BCC 0161	facultative?
+WB-117	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Oman	22.667	57.333	-0.0084949	0.0030734	0.0021924	1	Shayir IG 32973	BCC 0167	facultative?
+WB-118	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Pakistan	36.130	74.230	0.0044743	-0.018748	-0.015191	5	IG 128104	BCC 0173	facultative?
+WB-119	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.833	40.072	-0.0026684	-0.00087291	0.0039313	1	IG 31424	BCC 0190	facultative?
+WB-12	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0090477	0.0037906	0.0044993	1			
+WB-120	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.390	38.980	-0.010716	-0.00063345	0.0031916	1	IG 31444	BCC 0192	facultative?
+WB-121	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	33.817	36.544	-0.0033274	0.0022397	0.0015066	10	IG 31513	BCC 0195	facultative?
+WB-122	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tajikistan	39.167	70.866	0.0051466	-0.014553	-0.015781	5	K-14943	BCC 0218	facultative?
+WB-123	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tajikistan	38.540	68.780	-0.0091432	0.00042371	-0.0011621	5	K-10628	BCC 0219	facultative?
+WB-124	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	China	30.573	104.067	-0.011091	0.0049927	0.000093139	1	Xin Mai 1 Hao	BCC 0421	Spring
+WB-125	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	China	30.573	104.067	0.00091404	-0.017534	-0.01316	5	Gang Tuo Qing Ke 1 hao	BCC 0423	Spring
+WB-126	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	China	30.700	112.500	-0.0079402	0.00017765	0.0044894	1	E Dong 85-1	BCC 0427	Spring
+WB-127	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	China	43.640	115.660	-0.0090911	0.00089277	0.0036587	1	Fu 8	BCC 0432	Spring
+WB-128	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	China	43.817	125.324	-0.0063772	0.00092008	0.0019112	1	Vladivostok	BCC 0436	Spring
+WB-129	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	China	43.817	125.324	-0.00083459	-0.012218	-0.0037807	5	Manchuria Native 1	BCC 0438	Spring
+WB-13	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0087004	0.00098843	0.0013847	1			
+WB-130	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	China	43.817	125.324	0.00053249	-0.020513	-0.010944	5	Fengtien Black	BCC 0439	Spring
+WB-131	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	China	43.817	125.324	-0.0066838	0.0021784	0.0029538	1	Harbin Native	BCC 0446	Spring
+WB-132	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	China	43.817	125.324	-0.0080155	0.00012061	0.0018969	1	Mulan	BCC 0447	Spring
+WB-133	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	China	36.067	120.383	0.002058	-0.021344	-0.0118	5	Itu Native	BCC 0502	Spring
+WB-134	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	India	26.912	75.787	-0.007132	-0.0045476	-0.0040634	1	Rajkiran	BCC 0524	Spring
+WB-135	6	4	Landrace 6-row	Landrace	6	WHEALBI Breeding/research material	India	28.670	77.220	-0.0012018	-0.014209	-0.0073471	5	C-138	BCC 0526	Spring
+WB-136	1	4	Landrace 6-row	Landrace	6	WHEALBI Breeding/research material	India	28.670	77.220	-0.0081084	-0.0038903	-0.003922	1	BHS169	BCC 0527	Spring
+WB-137	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	India	26.912	75.787	-0.0085768	0.0041623	-0.000057685	1	Ratna	BCC 0532	Spring
+WB-138	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	-0.0011076	-0.019556	-0.0077174	5	Lakhan	BCC 0533	Spring
+WB-139	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	India	26.912	75.787	-0.0090416	-0.0021233	-0.00099576	1	PL 172	BCC 0535	Spring
+WB-14	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0091003	0.00012707	0.0024797	1			
+WB-140	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	-0.0040792	-0.016401	-0.0080834	5	Rewari	BCC 0538	Spring
+WB-141	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	0.0027773	-0.022342	-0.01096	5	Churtanchan 1	BCC 0551	Spring
+WB-142	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	-0.00078625	-0.019132	-0.01011	5	Pandukeshwar 2	BCC 0577	Spring
+WB-143	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	-0.0043997	-0.016367	-0.0095629	5	Bijoria	BCC 0579	Spring
+WB-144	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	India	26.912	75.787	-0.0045962	-0.02078	-0.011927	5	Bana	BCC 0581	Spring
+WB-145	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Japan	36.649	138.195	0.0045663	-0.021987	-0.010938	5	Dairokkaku	BCC 0625	Spring
+WB-146	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Japan	36.649	138.195	0.0039782	-0.019968	-0.011382	5	Nigatsuko	BCC 0642	Spring
+WB-147	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Republic of Korea	35.718	127.153	-0.0010094	-0.011111	-0.0077469	5	Buhobori	BCC 0666	Spring
+WB-148	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Republic of Korea	35.718	127.153	-0.0015209	-0.010417	-0.006366	5	Namhaebori	BCC 0667	Spring
+WB-149	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Republic of Korea	35.718	127.153	-0.010214	-0.0010585	0.002354	1	Hyanmaeg	BCC 0675	Spring
+WB-15	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0074601	0.0011008	0.0032456	1			
+WB-150	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Republic of Korea	35.461	128.213	0.0024025	-0.017303	-0.0094102	5	Tongyeong Covered 1	BCC 0695	Spring
+WB-151	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Republic of Korea	38.201	125.478	-0.0035278	-0.0065939	-0.0016147	5	Sariweon Yugmobori 1	BCC 0718	Spring
+WB-152	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	Republic of Korea	35.461	128.213	0.0029113	-0.019165	-0.011058	5	Gupo Covered 2	BCC 0729	Spring
+WB-153	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	27.720	85.320	-0.0026309	-0.016412	-0.010027	5	Gho 4	BCC 0732	Spring
+WB-154	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	28.230	84.870	-0.004175	-0.018416	-0.012146	5	Macha Khola 1	BCC 0745	Spring
+WB-155	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	28.840	83.780	0.001508	-0.017646	-0.015358	5	Kagbeni 2	BCC 0759	Spring
+WB-156	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	28.240	83.980	-0.0022683	-0.015125	-0.0086989	5	Ulleri 10	BCC 0766	Spring
+WB-157	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	28.240	83.960	-0.0038103	-0.016212	-0.0069821	5	Ulleri 20	BCC 0768	Spring
+WB-158	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	27.700	85.330	-0.01088	0.0038136	0.0026668	1	TKN24b	BCC 0776	Spring
+WB-159	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Canada	53.544	-113.491	-0.0090659	-0.00088518	0.0039869	1	AC Oxbow	BCC 0801	Spring
+WB-160	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Mexico	21.019	-101.257	-0.011619	-0.0020962	-0.0010188	1	Aliso	BCC 0806	Spring
+WB-161	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Mexico	21.019	-101.257	-0.010603	0.0012043	0.0051814	1	Arupo	BCC 0812	Spring
+WB-162	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	USA	48.507	-111.856	-0.0086994	0.0019588	0.0016868	1	Beecher	BCC 0817	Spring
+WB-164	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Colombia	5.454	-73.362	-0.0087784	-0.0042218	-0.0042796	1	Chia	BCC 0844	Spring
+WB-165	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	USA	48.507	-111.856	-0.0079323	-0.0014874	0.0033268	1	Compana	BCC 0847	Spring
+WB-166	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Canada	53.544	-113.491	-0.0070579	0.0013475	-0.0012348	1	Diamond	BCC 0852	Spring
+WB-167	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	Uruguay	-34.870	-56.170	-0.010996	0.00095601	0.0035512	1	FNC 1	BCC 0860	Spring
+WB-168	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Mexico	21.019	-101.257	-0.013329	-0.0015648	0.00058161	1	Gobernadora	BCC 0869	Spring
+WB-169	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	USA	48.507	-111.856	-0.0079903	-0.00091749	-0.0006972	1	Hazen	BCC 0875	Spring
+WB-170	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Canada	53.544	-113.491	-0.0076055	-0.0015831	0.0011625	1	Husky	BCC 0881	Spring
+WB-171	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Bolivia	-19.050	-65.250	-0.0069544	-0.0074628	-0.0048191	1	Kolla	BCC 0892	Spring
+WB-172	3	5	Spontaneum	Spontaneum	Spont	WHEALBI ?	Afghanistan	34.320	62.200	0.019494	-0.0076793	0.015462	3		HID 135	
+WB-173	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Chile	-38.733	-72.667	-0.0088016	0.0024965	0.0029592	1	Libra	BCC 0899	Spring
+WB-174	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Canada	53.544	-113.491	-0.0088874	-0.00101	0.0045102	1	Manley	BCC 0903	Spring
+WB-175	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	USA	48.507	-111.856	-0.0089281	-0.0014606	0.005083	1	Munsing	BCC 0907	Spring
+WB-180	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany/Netherlands	48.500	11.400	-0.0077971	0.00015076	0.0018246	1	Apex	BCC 1367	Spring
+WB-181	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0085513	0.0017998	0.0023469	1	Aramier	BCC 1368	Spring
+WB-182	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.0057854	0.0010332	0.0023777	1	Beatrice	BCC 1370	Spring
+WB-183	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.0063235	-0.00013815	0.0034657	1	Beka	BCC 1371	Spring
+WB-184	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Poland	52.800	16.500	-0.0085479	0.0036087	0.0023513	1	Bielik	BCC 1372	Spring
+WB-185	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.01067	0.0031119	0.0038393	1	Blenheim	BCC 1373	Spring
+WB-186	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.011324	0.0014369	0.0029543	1	Gambrinus	BCC 1374	Spring
+WB-187	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Denmark 	56.300	9.100	-0.007828	0.00034702	0.003786	1	Carlsberg II	BCC 1376	Spring
+WB-188	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.0087184	0.0028494	0.0032684	1	Ceres	BCC 1377	Spring
+WB-189	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.011242	0.0030825	0.0033655	1	Claret	BCC 1378	Spring
+WB-191	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	France	49.100	4.600	-0.0088411	0.0026839	0.0039773	1		Sixtine	
+WB-192	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.010824	0.0027776	0.0046412	1	Georgie	BCC 1381	Spring
+WB-193	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0087312	0.0019647	0.0050463	1	Golden Promise	BCC 1382	Spring
+WB-194	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0097992	0.0024149	0.0027747	1	Golf	BCC 1383	Spring
+WB-195	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011708	0.00063274	0.004632	1	Grit	BCC 1384	Spring
+WB-196	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Poland	52.800	16.500	-0.0096158	0.0018286	0.0015498	1	Gryf	BCC 1385	Spring
+WB-197	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0097343	-0.000094736	0.0036799	1	Haisa II	BCC 1386	Spring
+WB-198	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0096273	0.00042134	0.0045446	1	Hebe	BCC 1387	Spring
+WB-199	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Ireland	52.200	-8.500	-0.011406	0.00038634	0.0056319	1	Hunter	BCC 1389	Spring
+WB-2	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010794	0.0032951	0.0013345	1			
+WB-20	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Italy	41.200	15.800	-0.0070375	0.0036034	0.0029784	1			
+WB-200	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Poland	49.480	22.069	-0.0090887	0.0013346	0.0045381	1		HOR7531	Spring
+WB-201	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010812	0.00097935	0.0045837	1	Isaria	BCC 1391	Spring
+WB-202	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Denmark 	56.300	9.100	-0.0081853	-0.00097824	0.0033609	1	Kenia	BCC 1392	Spring
+WB-203	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0098545	0.0020346	0.0034179	1	Mansholt	 zweizeilig	BCC 1394
+WB-204	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0094271	0.0014667	0.0032464	1	Menuet	BCC 1395	Spring
+WB-205	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.011711	0.0017097	0.0035523	1	Mette	BCC 1396	Spring
+WB-206	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Hungary	46.400	19.900	-0.011304	0.00057464	0.0030702	1	MFB 104	BCC 1397	Spring
+WB-207	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	Hungary	46.400	19.900	-0.012166	0.00065886	0.0034755	1	MK 42	BCC 1398	Spring
+WB-208	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.0090231	0.0017774	0.002285	1	Nancy	BCC 1399	Spring
+WB-209	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.01033	0.0013837	0.0027401	1	Natasha	BCC 1400	Spring
+WB-21	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0099952	0.0047348	0.0021672	1			
+WB-210	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010482	0.0014897	0.0021141	1	Ortolan	BCC 1401	Spring
+WB-211	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.0097059	0.00064545	0.0020854	1	Pallas	BCC 1402	Spring
+WB-212	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany/Czech Republic	48.500	11.400	-0.010606	0.0014475	0.0048673	1	Perun	BCC 1403	Spring
+WB-214	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.01267	-0.00050846	0.003746	1	Plumage Archer	BCC 1405	Spring
+WB-215	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.012049	0.000033776	0.0024836	1	Probstdorfer Adorra	BCC 1407	Spring
+WB-216	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0093905	0.00012424	0.0058143	1	Proctor	BCC 1408	Spring
+WB-217	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.0091407	0.0022449	0.0034428	1	Quantum	BCC 1409	Spring
+WB-218	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.0091734	0.0013336	0.0042475	1	Rika	BCC 1410	Spring
+WB-219	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.01202	-0.00023972	0.0045846	1	Salome	BCC 1411	Spring
+WB-22	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.009644	0.0046316	0.0020563	1			
+WB-220	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.011962	-0.00014598	0.0054203	1	Sõrla	BCC 1412	Spring
+WB-221	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0093681	0.0012548	0.0048296	1	Sissy	BCC 1413	Spring
+WB-222	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Czech Republic 	49.400	15.800	-0.011713	-0.0015543	0.0041001	1	Spartan	BCC 1414	Spring
+WB-223	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.012333	-0.00059048	0.0034566	1	Spratt Archer	BCC 1415	Spring
+WB-224	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.009601	0.0015236	0.0033049	1	Tellus	BCC 1416	Spring
+WB-225	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0093336	0.00095934	0.0048364	1	Trumpf (Triumph)	BCC 1417	Spring
+WB-226	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Denmark 	56.300	9.100	-0.011828	-0.00025137	0.0044343	1	Tyra	BCC 1418	Spring
+WB-227	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011065	0.0010122	0.0031082	1	Union	BCC 1419	Spring
+WB-228	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0096072	0.0016881	0.0014829	1	Vada	BCC 1420	Spring
+WB-229	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Czech Republic 	49.400	15.800	-0.011075	-0.000062441	0.0051241	1	Valticky	BCC 1421	Spring
+WB-23	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0043879	-0.0075789	-0.0032407	1			
+WB-230	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0095767	0.0013755	0.0026978	1	Varunda	BCC 1422	Spring
+WB-231	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.011423	0.0022177	0.0026186	1	Volga	BCC 1423	Spring
+WB-232	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0094609	0.0010112	0.00181	1	Volla	BCC 1424	Spring
+WB-233	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010129	0.0012052	0.0022451	1	Wisa	BCC 1425	Spring
+WB-234	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.010823	-0.00012168	0.0037018	1	Archer	BCC 1428	Spring
+WB-235	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.011972	0.00038721	0.0029768	1	Chevallier	BCC 1430	Spring
+WB-236	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.011032	-0.00082534	0.001898	1	Goldfoil	BCC 1431	Spring
+WB-237	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Czech Republic 	49.400	15.800	-0.011114	0.00040882	0.0048162	1	Hana	BCC 1432	Spring
+WB-238	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010356	-0.00014883	0.0036731	1	Heils Franken	BCC 1433	Spring
+WB-239	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Czech Republic 	49.400	15.800	-0.0097358	0.0014213	0.002702	1	Kwassitzer Hanna	BCC 1439	Spring
+WB-24	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	France	49.100	4.600	-0.0096432	0.004972	0.0029504	1			
+WB-240	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Austria 	48.200	15.800	-0.01034	-0.00040034	0.0034628	1	Pammers Hohenauer Vollkorn	BCC 1440	Spring
+WB-241	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.01156	-0.00051137	0.0020924	1	Pflugs Intensiv	BCC 1441	Spring
+WB-242	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0014681	-0.0069812	-0.0042945	1	Plumage	BCC 1442	Spring
+WB-243	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0089161	-0.0012984	0.0021696	1	Probsteiner Landgerste	BCC 1443	Spring
+WB-244	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Czech Republic 	49.400	15.800	-0.010413	-0.00081328	0.0034343	1	Slovensky 802	BCC 1444	Spring
+WB-245	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.01061	0.00028067	0.0011057	1	Souche 142 Strotzheim	BCC 1445	Spring
+WB-246	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.0092071	0.0015005	0.0030864	1	Turquoise	BCC 1447	Spring
+WB-247	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Finland/Sweden	61.600	22.700	-0.010958	0.0004307	0.00069358	1	Agneta	BCC 1448	Spring
+WB-248	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Finland	61.600	22.700	-0.013306	0.00036757	0.0039313	1	Pomo	BCC 1450	Spring
+WB-249	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Netherlands 	52.900	6.300	-0.0054811	0.0015469	0.0021743	1	Bigo	BCC 1452	Spring
+WB-25	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	France	49.100	4.600	-0.0082869	0.0014948	0.0017764	1			
+WB-250	1	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar?	Finland	60.170	24.930	-0.010917	0.0041501	0.0018989	1	Olli	BCC 1453	Spring
+WB-251	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Russia	52.000	40.000	-0.010208	-0.00057934	0.0029775	1	Belogorskij	BCC 1455	Spring
+WB-252	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.011563	0.000062133	0.0035176	1	Viking	BCC 1456	Spring
+WB-253	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.010141	-0.0012847	0.0046066	1	Risk	BCC 1457	Spring
+WB-254	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.0084297	0.0012608	0.0025293	1	Ilmen	BCC 1458	Spring
+WB-255	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.0081174	0.0014727	0.0024602	1	Temp	BCC 1459	Spring
+WB-256	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.0082322	0.00051652	0.0031409	1	Omskij 80	BCC 1461	Spring
+WB-257	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.0098642	0.0018867	0.0043702	1	Primorskij 89	BCC 1463	Spring
+WB-258	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.0087895	0.0019196	0.0046369	1	Doneckij 650	BCC 1465	Spring
+WB-259	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.010764	0.0016792	0.0040759	1	Odesskij 100	BCC 1466	Spring
+WB-26	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Italy	41.200	15.800	-0.0089822	0.0042234	0.0024275	1			
+WB-260	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Belarus	53.900	27.560	-0.0086708	0.003395	0.0026439	1	Zhodinskij 5	BCC 1467	Spring
+WB-261	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Kazakhstan	54.873	69.151	-0.0073897	0.00030717	0.0040647	1	Tselinij 213	BCC 1468	Spring
+WB-262	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Kazakhstan	54.873	69.151	-0.0097509	-0.00096471	-0.00090784	1	Granal	BCC 1469	Spring
+WB-263	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Uzbekistan	39.627	66.975	-0.0082569	0.0017453	0.001648	1	Unumli-Arpa	BCC 1470	Spring
+WB-264	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Armenia	40.093	44.253	-0.0068295	-0.001974	0.00020304	1	Nutans 115	BCC 1471	Spring
+WB-266	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.0081822	0.0029952	0.0028779	1	Klepeninskij	BCC 1474	Spring
+WB-267	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Uzbekistan	39.627	66.975	-0.010474	0.0016408	0.0026196	1	Afrasiab	BCC 1476	Spring
+WB-268	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Russia	63.950	41.680	-0.0076156	9.4652E-07	0.0011267	1	K 9338	BCC 1479	Spring
+WB-269	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Russia	63.950	41.680	-0.008044	0.00034759	0.00098616	1	K 16411	BCC 1480	Spring
+WB-27	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	France	49.100	4.600	-0.0081758	0.0039758	0.0031097	1			
+WB-271	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Russia	52.000	40.000	-0.0095447	0.00040685	0.0033861	1	Vjatich	BCC 1482	Spring
+WB-272	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Russia	59.220	39.750	-0.010611	-0.00036838	0.0020638	1	K 4511	BCC 1483	Spring
+WB-273	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Russia	57.767	41.500	-0.009151	-0.0010897	0.0014152	1	K 9511	BCC 1484	Spring
+WB-274	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Russia	52.000	40.000	-0.011636	0.0032231	0.0028907	1	Pallidum 45	BCC 1485	Spring
+WB-276	1	4	Landrace 6-row	Landrace	6	WHEALBI Breeding/research material	Russia	54.570	100.570	-0.0085769	0.0022254	0.0029016	1	Tulunskii 23/11	BCC 1490	Spring
+WB-277	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Russia	52.000	40.000	-0.0065764	0.000070198	0.0010458	1	K 10693	BCC 1491	Spring
+WB-278	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.012015	0.0017717	0.0033421	1	Gelios	BCC 1493	Spring
+WB-279	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Kyrgyzstan	42.875	74.612	-0.0079537	0.001709	0.0016092	1	K 11749	BCC 1497	Spring
+WB-28	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Italy	41.200	15.800	-0.0098558	0.0027622	0.0027161	1			
+WB-280	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Uzbekistan	39.654	66.960	-0.0066478	-0.0043579	-0.00071256	1	K 17227	BCC 1498	Spring
+WB-281	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tajikistan	38.540	68.780	-0.009686	0.00064258	-0.00061083	5	K 10628	BCC 1500	Spring
+WB-284	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.01014	0.0019459	0.00057853	1	Pallidum 4	BCC 1505	Spring
+WB-285	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Ukraine	47.600	30.600	-0.0094344	-0.000065004	0.0025267	1	Odesskij 36	BCC 1506	Spring
+WB-286	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.010029	0.0009127	0.0037145	1	Bavaria (Ackermanns Bavaria)	BCC 1524	Spring
+WB-287	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Austria 	48.200	15.800	-0.010076	0.000095275	0.0018629	1	Pumper	BCC 1529	Spring
+WB-288	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Ex. Yugoslavia	44.100	21.100	-0.011639	0.0013805	0.0038328	1	Novosadski 294 (NS 294)	BCC 1541	Spring
+WB-289	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Cyprus	35.126	33.430	-0.011748	0.0032399	0.0036038	1	Athenais	BCC 1548	Spring
+WB-290	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Bulgaria	43.823	25.954	-0.009342	0.0045236	0.0032978	1	HOR 383	BCC 1561	Spring
+WB-291	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Albania	42.063	20.437	-0.013607	0.0013991	0.00060869	1	HOR 750	BCC 1565	Spring
+WB-292	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Greece	39.491	21.944	-0.011928	0.0028468	0.0040964	1	HOR 753	BCC 1566	Spring
+WB-294	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	31.533	48.817	-0.0013068	-0.012624	-0.0051903	1	FAO 3413	HOR 2800	Spring
+WB-295	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iran	34.580	48.820	-0.0042235	-0.00059714	0.0017677	1	FAO 3443	HOR 2828	Spring
+WB-297	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	34.583	48.817	-0.0068313	-0.0069884	-0.0019704	1	FAO 3450	HOR 2835	Spring
+WB-299	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	38.750	29.417	-0.009673	-0.00057691	0.0010785	1		HOR 7985	spring
+WB-3	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0096595	0.0036721	0.0031518	1			
+WB-30	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0082563	0.0044112	0.0023207	1			
+WB-301	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	38.750	30.670	-0.0096748	0.0010797	0.0018175	1	HOR 8050	HOR 8050	Spring
+WB-302	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	39.440	29.980	-0.0080141	0.00035364	0.0021468	1	HOR 8113	HOR 8113	spring
+WB-303	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	39.240	29.500	-0.0063655	-0.0016615	0.001097	1	HOR 8160	HOR 8160	Spring
+WB-304	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	Israel	31.779	35.224	-0.0080354	0.00067145	0.0029861	1	MR 1/13	HOR 11370	Spring
+WB-305	1	3	Landrace 2-row	Landrace	2	WHEALBI Breeding/research material	Israel	31.779	35.224	-0.012372	0.0030366	0.002244	1	MR 3/51	HOR 11371	Spring
+WB-307	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace/cultivar?	Israel	31.779	35.224	-0.010872	0.0019745	0.0060259	1	W 23833/2196 11	HOR 11373	Spring
+WB-308	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace/cultivar?	Israel	31.779	35.224	-0.0068706	0.0013383	0.0040629	1	W 23829/8039 11	HOR 11374	Spring
+WB-309	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	36.701	38.105	-0.0081952	0.0066716	0.0014092	1	HOR 12830	HOR 12830	
+WB-31	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Turkey	39.200	32.000	-0.0092858	0.00063213	0.0026586	1			
+WB-311	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Germany	48.500	11.400	-0.010516	-0.00077099	0.0028981	1	Schwarze Gemeine Dreizack	HOR 1962	Spring
+WB-312	1	3	Landrace 2-row	Landrace	2	WHEALBI Cultivar?	Sweden 	57.500	18.550	-0.0081076	0.00086153	0.0027339	1	Gull 		Spring
+WB-313	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Denmark 	56.300	9.100	-0.010216	-0.00012566	0.0047003	1	Binder 		Spring
+WB-314	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Sweden 	56.500	13.500	-0.0079688	0.0012913	0.0036571	1	Bonus 		Spring
+WB-315	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Estonia 	59.200	24.700	-0.0094365	0.0018093	0.0053629	1	Anni 		Spring
+WB-316	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0099696	0.00067782	0.0025436	1	Optic 		Spring
+WB-317	1	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar?	Sweden	64.500	18.000	-0.0068411	0.0012353	0.00091926	1	Asplund		Spring
+WB-318	1	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar?	Norway	58.717	5.750	-0.0094383	0.00059272	0.00047932	1	Jadar		Spring
+WB-319	1	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar?	Norway	61.261	12.323	-0.0088613	0.00073995	0.0025995	1	Maskin		Spring
+WB-32	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Germany	48.500	11.400	-0.0063791	0.0036071	0.0011908	1			
+WB-322	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Algeria	36.217	6.583	-0.0091888	0.0075523	-0.00040887	1		BCC 0033	spring/ facultative?
+WB-323	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Egypt	31.050	33.833	-0.013926	0.0052793	-0.00015486	1		BCC 0050	spring/ facultative?
+WB-324	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Egypt	31.233	34.217	-0.011046	0.0033461	-0.00065441	1		BCC 0053	spring/ facultative?
+WB-325	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Egypt	31.467	26.633	-0.012279	0.0020206	0.0029509	1		BCC 0056	spring/ facultative?
+WB-326	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Egypt	30.467	30.850	0.0056555	-0.015993	-0.016753	5		BCC 0057	spring/ facultative?
+WB-327	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Jordan	32.317	35.933	-0.0025884	0.0043115	-0.0007167	10		BCC 0097	spring/ facultative?
+WB-328	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Jordan	32.570	35.910	-0.0088419	0.0067359	-0.00088442	1		BCC 0098	spring/ facultative?
+WB-329	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Jordan	32.167	35.583	-0.0049134	-0.00029421	0.0023085	1		BCC 0099	spring/ facultative?
+WB-33	8	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iran	31.833	48.898	0.0096119	-0.002899	0.0024214	8			
+WB-330	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Jordan	32.480	35.670	-0.000047661	0.0053757	-0.0032155	10		BCC 0100	spring/ facultative?
+WB-331	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Jordan	31.920	35.650	-0.012365	0.0063288	0.0032357	1		BCC 0101	spring/ facultative?
+WB-332	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Jordan	32.233	36.083	-0.0011684	0.0034954	-0.0014519	10		BCC 0102	spring/ facultative?
+WB-333	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Jordan	32.060	36.410	-0.0016161	0.0026954	-0.00057468	10		BCC 0104	spring/ facultative?
+WB-334	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Lebanon	34.300	35.830	-0.0098931	0.0079332	0.00011995	1		BCC 0109	spring/ facultative?
+WB-335	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Oman	24.500	56.550	-0.013919	0.00049046	0.0018977	1		BCC 0163	spring/ facultative?
+WB-336	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Oman	23.110	57.290	-0.0037644	-0.0097458	-0.0041262	1		BCC 0164	spring/ facultative?
+WB-337	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Oman	23.520	56.330	-0.0088121	0.0021992	0.001963	1		BCC 0165	spring/ facultative?
+WB-338	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Oman	23.390	57.220	-0.0030222	-0.0094525	-0.0042555	1		BCC 0166	spring/ facultative?
+WB-339	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	35.083	38.917	-0.010671	0.001757	0.00066896	1		BCC 0186	spring/ facultative?
+WB-34	5	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	37.250	44.467	0.013959	0.0099384	-0.0089519	4			
+WB-340	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	33.633	36.225	-0.010847	0.0013879	0.0029208	1		BCC 0187	spring/ facultative?
+WB-341	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	33.600	36.400	-0.010749	0.0013845	0.0028511	1		BCC 0188	spring/ facultative?
+WB-342	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	36.150	39.208	-0.00051441	-0.0025336	-0.0031819	5		BCC 0189	spring/ facultative?
+WB-344	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.420	40.790	-0.0022962	-0.00062799	0.0041819	1		BCC 0193	spring/ facultative?
+WB-345	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	35.400	37.256	-0.0035543	0.0021115	0.00010879	1		BCC 0194	spring/ facultative?
+WB-346	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.150	36.817	-0.0022357	0.0015718	-0.00089868	10		BCC 0196	spring/ facultative?
+WB-347	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	33.117	36.342	-0.0036652	0.00018507	0.0024713	1		BCC 0198	spring/ facultative?
+WB-348	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	32.533	36.540	0.00076216	0.0029479	0.00086547	10		BCC 0199	spring/ facultative?
+WB-35	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	33.010	35.417	0.019324	0.010894	-0.006482	10			
+WB-350	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	34.860	39.050	-0.0094459	0.0023114	0.0018828	1		BCC 0201	spring/ facultative?
+WB-351	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	34.750	36.050	-0.013061	0.0074756	0.00012869	1		BCC 0203	spring/ facultative?
+WB-352	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	35.617	35.833	-0.01016	0.0050562	-0.000053759	1		BCC 0205	spring/ facultative?
+WB-353	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	33.833	36.511	-0.0035132	0.0018813	0.001982	1		BCC 0209	spring/ facultative?
+WB-354	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	34.890	40.560	-0.010473	0.0038588	0.0024696	1		BCC 0212	spring/ facultative?
+WB-355	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Syria	35.617	35.831	-0.0080812	0.0049338	-0.0023828	1		BCC 0214	spring/ facultative?
+WB-356	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	34.583	38.356	-0.0061756	-0.0012436	0.0021608	1		BCC 0216	spring/ facultative?
+WB-359	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	Israel	31.779	35.224	-0.01258	0.0037703	0.0033882	1		HOR 4354	spring/ facultative?
+WB-36	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	33.320	35.760	0.015141	0.0097185	-0.0051719	10			
+WB-361	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Yemen	15.348	44.206	0.00095212	-0.016577	-0.0077759	5		HOR 6957	spring/ facultative?
+WB-362	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Yemen	15.348	44.206	-0.0036834	-0.00073654	0.0059613	1		HOR 6958	spring/ facultative?
+WB-363	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Egypt	31.150	29.940	-0.011154	0.0025769	-0.00038512	1		HOR 8212	spring/ facultative?
+WB-368	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Afghanistan	35.000	71.110	-0.0035179	-0.0014657	0.001344	1		HOR 1751	spring
+WB-369	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	40.230	32.710	-0.0091297	-0.0013467	0.0028797	1		HOR 572	spring
+WB-37	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	France	49.100	4.600	-0.0098956	0.0046609	0.0021282	1			
+WB-371	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Libya	32.787	13.191	-0.010443	-0.0001407	0.0050414	1		Tripolitaine 9598	
+WB-372	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	8.633	38.050	-0.007375	-0.0080021	-0.0050316	1		HOR 7939	spring
+WB-373	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.067	38.483	-0.011764	0.001257	0.0021431	1		HOR 7956	spring
+WB-374	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Georgia	42.916	43.011	-0.0052672	-0.0030689	-0.00047638	1		HOR 10463	spring
+WB-375	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Greece	37.667	22.183	-0.0082907	-0.00066074	0.00057237	1		HOR 0725	spring
+WB-376	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iran	34.583	48.817	-0.0030185	-0.0028331	-0.0010306	1		HOR 2833	spring
+WB-377	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iraq	36.443	43.257	-0.0086429	-0.000099611	0.0021327	1		HOR 10651	spring
+WB-379	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Italy	45.830	10.460	-0.0084387	0.0019824	0.0023965	1		HOR 11123	spring
+WB-38	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.0088283	0.0037413	0.00075795	1			
+WB-380	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Libya	32.691	21.908	-0.013854	0.00050815	0.0017936	1		HOR 9880	spring
+WB-382	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Poland	49.335	22.410	-0.010049	0.0018793	0.0014765	1		HOR 7537	spring
+WB-383	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Poland	49.393	20.187	-0.009984	0.0017026	0.0018803	1		HOR 8832	spring
+WB-384	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Romania	46.781	23.083	-0.0097583	-0.0023945	0.00059422	1		HOR 9450	spring
+WB-387	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Slovakia	48.970	22.430	-0.0083639	0.0014009	0.0036282	1		HOR 8638	spring
+WB-388	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	40.367	29.167	-0.0080681	0.00089344	0.0026905	1		HOR 1178	spring
+WB-389	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.450	37.517	-0.0072951	0.0054921	0.0024383	1		HOR 1260	spring
+WB-39	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Italy	41.200	15.800	-0.014449	0.0054091	0.0048835	1			
+WB-390	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	36.450	37.517	-0.0036197	0.00003667	0.0011046	1		HOR 1415	spring
+WB-391	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	39.890	28.790	-0.0087409	0.0029514	0.001421	1		HOR 1740	spring
+WB-392	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Turkey	39.417	29.983	-0.0087045	-0.0023603	0.0013526	1		HOR 8158	spring
+WB-393	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Bosnia and Herzegovina	44.050	17.460	-0.0070129	0.0011883	0.0034006	1		HOR 4017	spring
+WB-394	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Afghanistan	31.617	65.717	0.00049804	-0.014983	-0.0084075	5		HOR 1522	spring
+WB-395	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Afghanistan	35.860	71.790	0.0033111	-0.022935	-0.012565	5		HOR 1838	spring
+WB-396	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Algeria	36.700	3.240	-0.0093458	0.0059458	-0.00025733	1		HOR 4146	spring
+WB-397	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Austria	47.350	13.210	-0.010396	0.0012826	0.0017266	1		HOR 3961	spring
+WB-398	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Bulgaria	42.134	24.953	-0.011155	0.0056831	0.0033371	1		HOR 0386	spring
+WB-399	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Egypt	26.918	31.330	-0.011814	0.0064386	0.0035951	1		HOR 0819	spring
+WB-4	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.012218	0.0041396	0.0026105	1			
+WB-40	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	China (Tibet)	29.650	91.100	0.00012054	-0.020261	-0.01585	5			
+WB-400	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.583	41.867	-0.0057059	-0.0071384	-0.0055303	1		HOR 5428	spring
+WB-401	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	8.533	34.800	-0.0063029	-0.0074514	-0.0050178	1		HOR 5939	spring
+WB-402	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	7.100	38.750	-0.010715	0.0064399	0.00018676	2		HOR 10307	spring
+WB-403	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	France	45.432	6.557	-0.012769	0.0040382	0.0035207	1		HOR 10058	spring
+WB-404	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Georgia	43.046	42.730	-0.0054213	-0.0037716	-0.0016542	1		HOR 9614	spring
+WB-405	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	39.074	21.824	-0.010246	0.0070327	0.0043699	1		HOR 0771	spring
+WB-407	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	35.240	23.680	-0.015897	0.0073041	0.0022176	1		HOR 1860	spring
+WB-408	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	37.310	22.430	-0.0095331	0.0078891	0.002485	2		HOR 6954	spring
+WB-41	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Nepal	28.357	83.737	-0.0025226	-0.019086	-0.014517	5			
+WB-411	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	31.533	48.817	-0.0031193	-0.014813	-0.0071101	1		HOR 4261	spring
+WB-412	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	30.517	49.833	0.00080684	-0.01712	-0.0080958	5		HOR 4262	spring
+WB-413	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	32.080	48.700	-0.0025154	-0.014714	-0.0065263	1		HOR 4264	spring
+WB-414	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iran	39.667	44.750	-0.00048414	-0.015186	-0.0058914	1		HOR 4265	spring
+WB-415	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iraq	36.250	43.800	0.0013568	-0.016311	-0.0093795	5		HOR 10477	spring
+WB-416	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iraq	36.443	43.257	-0.012739	0.0013826	0.0032526	1		HOR 10482	spring
+WB-417	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iraq	36.166	43.257	-0.00029799	-0.014182	-0.0061877	1		HOR 10607	spring
+WB-418	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iraq	34.360	41.970	0.0014948	-0.016126	-0.0093052	5		HOR 10619	spring
+WB-419	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Iraq	33.643	42.821	-0.00046081	-0.014297	-0.0060372	1		HOR 10768	spring
+WB-42	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Japan	36.649	138.195	0.002236	-0.021038	-0.011026	5			
+WB-420	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Italy	38.338	16.306	-0.011687	0.0068813	0.0010004	1		HOR 2002	spring
+WB-421	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Italy	41.450	14.183	-0.0095119	0.0028213	0.0028609	1		HOR 9702	spring
+WB-422	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	26.335	17.228	-0.0096197	0.005419	-0.00078721	1		HOR 9882	spring
+WB-423	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Libya	31.970	21.580	-0.013477	0.00029675	0.0017141	1		HOR 9883	spring
+WB-424	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	32.767	22.250	-0.0089846	0.0034032	0.0014633	1		HOR 9842	spring
+WB-425	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	32.487	20.834	-0.012236	0.0046608	0.00053799	1		HOR 10170	spring
+WB-427	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	27.568	14.501	-0.011281	0.0021793	-0.0021419	1		HOR 10136	spring
+WB-428	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	27.533	14.157	-0.01426	0.0035003	-0.00048684	1		HOR 10105	spring
+WB-429	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	26.167	15.117	-0.011733	0.0021794	-0.00053555	1		HOR 10111	spring
+WB-43	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	USA	48.507	-111.856	-0.011603	0.0038856	0.00055186	1			
+WB-431	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	27.570	14.183	-0.0085242	0.0045044	-0.00054041	1		HOR 10279	spring
+WB-432	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	26.650	13.700	-0.010242	0.0035638	-0.0010445	1		HOR 10112	spring
+WB-433	1	3	Landrace 2-row	Landrace	2	WHEALBI ?	Turkey	38.750	29.417	-0.0097198	0.0023127	0.0011793	1			
+WB-434	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	24.964	10.168	-0.01131	0.0047959	-0.0001897	1		HOR 10138	spring
+WB-435	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	24.964	10.168	-0.010262	0.0027814	-0.00045865	1		HOR 10283	spring
+WB-436	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	26.150	14.717	-0.011822	0.0026011	-0.00084565	1		HOR 10110	spring
+WB-437	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	27.271	14.904	-0.011656	0.0042125	-0.0007215	1		HOR 9834	spring
+WB-438	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	24.262	14.560	-0.012398	0.0039277	0.0006746	1		HOR 10116	spring
+WB-439	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	30.133	9.500	-0.011553	0.0037143	-0.000067089	1		HOR 10134	spring
+WB-44	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	USA	48.507	-111.856	-0.007255	0.00027702	0.0014127	1			
+WB-440	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	31.774	11.544	-0.011647	0.0046612	0.00054196	1		HOR 10126	spring
+WB-441	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	30.737	-7.790	-0.012149	0.0048204	-0.00083295	1		HOR 13438	spring
+WB-442	2	4	Landrace 6-row	Landrace	6	WHEALBI ?	Greece	37.620	22.370	-0.012639	0.0079864	-0.00036193	2		HOR 1159	
+WB-443	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	30.560	-7.840	-0.013051	0.0058794	-0.000012122	1		HOR 13436	spring
+WB-444	2	4	Landrace 6-row	Landrace	6	WHEALBI ?	Greece	35.363	23.631	-0.011194	0.0083447	0.0014113	2		HOR 1379	
+WB-445	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Romania	45.943	24.967	-0.0092203	0.0024572	0.0020851	1		HOR 3700	spring
+WB-446	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Spain	29.132	-13.462	-0.012965	0.0048931	-0.00035297	1		BCC 1576	spring
+WB-447	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Spain	28.477	-16.426	-0.011844	0.00681	-0.0008577	2		HOR 4072	spring
+WB-448	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Spain	41.650	-0.843	-0.009675	0.0043586	0.0030568	1		HOR 13887	spring
+WB-449	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Spain	28.483	-16.341	-0.0080336	0.0024028	0.0021657	1		HOR 13932	spring
+WB-45	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	37.400	22.130	-0.010299	0.0050106	-0.00057389	1			
+WB-450	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Spain	28.462	-14.041	-0.013308	0.0057395	-0.00092923	1		HOR 13928	spring
+WB-451	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	38.313	30.123	-0.0092597	0.0025653	0.0026725	1		HOR 0420	spring
+WB-452	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	41.250	32.683	-0.008741	0.0028274	0.0017015	1		HOR 0435	spring
+WB-453	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	41.001	28.919	-0.010254	0.0080455	-0.0011903	2		HOR 0449	spring
+WB-454	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	40.827	30.808	-0.0070825	0.0014294	0.0019821	1		HOR 0452	spring
+WB-455	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	41.667	26.567	-0.011161	0.0035369	-0.00097182	1		HOR 0544	spring
+WB-456	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	37.883	30.800	-0.011505	0.0051188	0.00087967	1		HOR 0889	spring
+WB-457	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ukraine	45.197	34.147	-0.0090836	0.0013212	0.0021892	1		HOR 0194	spring
+WB-458	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Turkey	38.423	27.250	-0.010261	0.0022953	0.0029809	1		HOR 1466	spring
+WB-459	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Serbia	42.198	20.714	-0.0087037	0.0011395	0.0011587	5		HOR 0751	spring
+WB-46	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	37.280	22.070	-0.012039	0.0061088	-0.00032148	2			
+WB-464	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Algeria	28.000	3.000	-0.010493	0.0055939	-0.0011294	1		HOR 10958	spring
+WB-465	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.217	41.100	-0.0050119	-0.0089631	-0.0041684	1		HOR 5918	spring
+WB-466	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	5.783	36.567	-0.0052019	-0.0064516	-0.0048491	1		HOR 5929	spring
+WB-467	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.667	39.533	-0.0097196	0.00101	0.0043473	1		HOR 11435	spring
+WB-468	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iraq	33.316	44.392	-0.004722	-0.0069934	-0.0052913	1		HOR 10484	spring
+WB-469	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Iran	37.633	47.800	-0.0015301	-0.010436	-0.0062776	1		HOR 2779	spring
+WB-47	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Albania	39.960	19.960	-0.011324	0.004468	-0.00086756	1			
+WB-470	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Poland	49.533	21.967	-0.0038316	-0.0062981	-0.0030541	1		HOR 8813	spring
+WB-471	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Russia	42.140	47.120	0.00071652	-0.0082475	-0.0037873	1		HOR 4463	spring
+WB-472	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Afghanistan	35.860	71.790	0.0021661	-0.0097592	-0.0069443	5		HOR 1464	spring
+WB-473	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Afghanistan	34.367	62.167	0.0054147	-0.01509	-0.015289	5		HOR 7321	spring
+WB-474	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	8.533	34.800	-0.0047399	-0.0065587	-0.0046405	1		HOR 5961	spring
+WB-475	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Italy	39.083	16.366	-0.007019	0.0041946	-0.0013104	5		HOR 10364	
+WB-478	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Libya	32.007	12.372	-0.012255	0.0045754	0.0013264	1		HOR 9929	spring
+WB-479	8	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	30.934	34.865	0.013258	0.0079897	-0.01316	8		FT004	facultative/ winter
+WB-480	5	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	31.436	34.888	0.016232	0.012233	-0.01202	4		FT073	facultative/ winter
+WB-481	9	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	32.821	35.507	0.020334	0.01267	-0.0071253	11		FT125	facultative/ winter
+WB-482	5	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	31.595	34.899	0.013958	0.01174	-0.012706	4		FT155	facultative/ winter
+WB-483	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Jordan	32.633	35.700	0.016072	0.0069893	0.0011487	10		FT269	facultative/ winter
+WB-484	8	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Uzbekistan	38.311	66.625	0.022463	-0.0083035	0.013479	8		FT872	facultative/ winter
+WB-486	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iraq	35.580	43.220	0.022548	-0.009791	0.020793	10		HID04	winter
+WB-487	9	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	36.850	40.033	0.019482	0.013546	-0.0075096	11		HID55	
+WB-488	4	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	36.680	37.090	0.017792	0.0047598	0.0087497	3		HID62	
+WB-489	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	36.752	37.475	0.020145	0.0026372	0.0083887	10		HID65	
+WB-49	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	China	30.580	114.280	0.0040968	-0.019512	-0.010442	5			
+WB-490	3	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	36.854	37.521	0.018925	-0.0033163	0.013941	3		HID69	
+WB-491	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	37.323	37.467	0.018732	0.0025279	0.001393	10		HID80	
+WB-492	4	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Syria	35.180	38.860	0.01288	-0.0076907	0.011768	3		HID99	facultative
+WB-493	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Syria	33.654	36.836	0.017312	0.0037021	-0.0039959	10		HID101	winter
+WB-494	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Syria	35.606	35.821	0.016689	0.0031084	0.0011269	10		HID102	winter
+WB-495	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Syria	34.950	36.750	0.016395	0.0036793	0.0074412	10		HID109	winter
+WB-496	9	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Lebanon	33.450	35.317	0.022706	0.010421	-0.0089899	11		HID114	
+WB-497	3	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iran	32.000	48.550	0.015726	-0.01205	0.012843	3		HID138	facultative
+WB-498	3	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iraq	36.400	44.200	0.021927	-0.0092897	0.020575	3		HID140	winter
+WB-499	8	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iran	30.070	50.840	0.013249	0.0082356	-0.011241	8		HID144	facultative
+WB-5	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.010377	0.003612	0.00077608	1			
+WB-50	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	36.842	22.400	-0.010074	0.0070897	0.0016535	1			
+WB-500	3	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Afghanistan	32.617	62.617	0.01635	-0.011674	0.016064	3		HID219	
+WB-501	3	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iran	33.233	48.567	0.015571	-0.0071367	0.014246	3		HID249	winter
+WB-502	1	4	Landrace 6-row	Landrace	6	WHEALBI ?	Turkey	39.916	32.850	-0.011747	0.0017139	0.0031132	1		HOR 4727	Spring
+WB-504	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Iran	38.471	44.409	0.022227	-0.0040157	0.011483	10		HID295	
+WB-505	10	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Turkey	37.787	39.748	0.02122	-0.002099	0.017827	10		HID357	winter
+WB-507	9	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	31.383	34.882	0.016241	0.0085588	-0.0061316	11		HID359	
+WB-508	6	4	Landrace 6-row	Landrace	6	WHEALBI agriocr ?	China (Tibet)	29.650	91.100	0.0044054	-0.015996	-0.013674	5		HID380	facultative
+WB-509	5	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	31.770	35.050	0.016524	0.0092336	-0.0035769	4		HID386	
+WB-51	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Greece	36.842	22.400	-0.012677	0.007066	-0.00087263	1			
+WB-510	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.011098	0.0017086	0.0055939	1		Barke	Spring
+WB-511	8	5	Spontaneum	Spontaneum	Spont	WHEALBI Spont	Israel	32.752	35.669	0.013372	0.007919	-0.008175	9		ISR42-8	
+WB-512	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.01081	0.0016213	0.0026259	1		Scarlett	
+WB-52	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.0061667	-0.0079147	-0.0046571	1			
+WB-53	1	2	Cultivar 6-row	Cultivar	6	WHEALBI Cultivar	New Zealand	-44.397	171.255	-0.012804	0.0063308	0.00049416	1			
+WB-54	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.000	40.333	-0.0047403	-0.0085219	-0.0039296	1			
+WB-55	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.0074569	-0.0084639	-0.0047727	1			
+WB-56	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.0064047	-0.00946	-0.0055236	1			
+WB-58	6	4	Landrace 6-row	Landrace	6	WHEALBI Cultivar	China	30.573	104.067	-0.0030117	-0.00535	-0.0053357	5	Fong-tien		
+WB-59	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace/cultivar?	China	29.567	106.583	0.0037091	-0.02036	-0.011119	5	Nigrate		
+WB-6	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	United Kingdom	56.300	-3.700	-0.0097134	0.0033713	0.0019503	1			
+WB-60	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	India	28.670	77.220	0.0016571	-0.017225	-0.012465	5			
+WB-61	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	India	28.670	77.220	-0.0011036	-0.015938	-0.010988	5			
+WB-62	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Landrace/cultivar?	Israel	31.779	35.224	-0.0079889	0.0027384	-0.0016776	1			
+WB-64	2	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Algeria	36.650	3.250	-0.0082141	0.00025661	-0.001596	2			
+WB-65	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	34.250	-6.480	-0.0083789	0.0057122	-0.00071026	1			
+WB-66	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	34.250	-6.480	-0.010596	0.0061614	0.00039241	1			
+WB-67	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	34.250	-6.480	-0.0099087	0.0070186	-0.00054163	1			
+WB-68	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Algeria	36.650	3.250	-0.011683	0.0029499	0.0017115	1			
+WB-69	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Morocco	34.250	-6.480	-0.0076168	0.0035351	-0.00030668	1			
+WB-70	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tunisia	36.610	10.170	-0.0084015	0.0070133	0.00045393	1			
+WB-71	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tunisia	36.610	10.170	-0.0085584	0.0067421	0.0012643	1			
+WB-72	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Tunisia	36.610	10.170	-0.010216	0.0069672	-0.00078044	1			
+WB-73	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	11.831	39.600	-0.0069922	-0.0080275	-0.003983	1			
+WB-74	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	12.595	39.540	-0.0050363	-0.0088554	-0.0057497	1			
+WB-75	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	8.983	37.848	-0.0054298	-0.007511	-0.003203	1			
+WB-76	10	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.144	39.036	-0.0023511	0.0059982	-0.000165	10			
+WB-77	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.017	38.733	-0.0034031	-0.0080985	-0.0041068	1			
+WB-78	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.017	38.733	-0.0031942	-0.006662	-0.0038401	1			
+WB-79	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	8.767	38.933	-0.010515	-0.00058801	-0.0027128	1			
+WB-8	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.012827	0.0022907	0.0012741	1			
+WB-80	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.0076825	0.0018227	0.000428	1			
+WB-81	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.000	40.333	-0.0045324	-0.0080006	-0.0034756	1			
+WB-82	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	7.500	37.800	-0.006854	-0.0078034	-0.0044946	1			
+WB-83	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	6.250	38.680	-0.006831	-0.0085176	-0.0044258	1			
+WB-84	6	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Ethiopia	6.250	38.680	-0.0059487	-0.0021058	-0.0080487	5			
+WB-85	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Egypt	30.230	31.230	-0.0093492	-0.0013576	0.0039533	1			
+WB-86	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.004024	-0.007506	-0.0045479	1			
+WB-87	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.030	38.740	-0.0034098	-0.0072173	-0.0036656	1			
+WB-89	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Libya	32.480	21.126	-0.01216	0.0017112	0.0010578	1			
+WB-9	1	1	Cultivar 2-row	Cultivar	2	WHEALBI Cultivar	Germany	48.500	11.400	-0.01257	0.0022784	0.0012529	1			
+WB-90	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Libya	32.480	21.126	-0.012125	-0.00080069	0.0040456	1			
+WB-92	10	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Syria	35.900	39.020	-0.0024566	0.0051881	-0.0022048	10			
+WB-93	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.000	40.333	-0.0043068	-0.0081765	-0.0041054	1			
+WB-94	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.742	-7.093	-0.010416	0.005785	-0.000019704	1			
+WB-95	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.742	-7.093	-0.010996	0.0041653	-0.0018355	1			
+WB-96	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.742	-7.093	-0.0093515	0.0042053	0.0012115	1			
+WB-97	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.742	-7.093	-0.0099368	0.0047199	-0.00076421	1			
+WB-98	1	4	Landrace 6-row	Landrace	6	WHEALBI Landrace	Morocco	31.742	-7.093	-0.012778	0.005889	-0.00080439	1			
+WB-99	1	3	Landrace 2-row	Landrace	2	WHEALBI Landrace	Ethiopia	9.017	38.733	-0.0067987	-0.001756	0.0016537	1			
+WBDC_007	9	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	32.330	35.920	0.011944	-0.011655	-0.0018942	11			
+WBDC_012	10	5	Spontaneum	Spontaneum	Spont	WBDC	Afghanistan	36.280	64.860	0.014332	0.0017558	0.0026448	10			
+WBDC_019	10	5	Spontaneum	Spontaneum	Spont	WBDC	Iran	36.750	45.720	0.016461	0.0092093	-0.0046006	10			
+WBDC_029	4	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	31.580	34.630	0.01265	0.010468	-0.0075905	3			
+WBDC_030	9	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	33.080	35.180	0.0188	0.014436	-0.0074928	11			
+WBDC_032	5	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	33.000	35.130	0.017106	0.011577	-0.014425	4			
+WBDC_051	4	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	34.760	39.030	0.018849	-0.0061931	0.016101	3			
+WBDC_097	10	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.280	35.830	0.017863	0.0033711	-0.00046909	10			
+WBDC_123	3	5	Spontaneum	Spontaneum	Spont	WBDC	Iran	36.420	58.470	0.014938	-0.0092456	0.012196	3			
+WBDC_128	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	33.840	36.170	0.013299	0.0035188	-0.0011094	10			
+WBDC_132	10	5	Spontaneum	Spontaneum	Spont	WBDC	Lebanon	33.470	35.870	0.016562	0.0027444	0.0018028	10			
+WBDC_140	10	5	Spontaneum	Spontaneum	Spont	WBDC	Lebanon	34.200	36.080	0.01369	0.0041614	-0.0018436	10			
+WBDC_149	3	5	Spontaneum	Spontaneum	Spont	WBDC	Iran	38.080	45.000	0.014599	-0.0071346	0.012811	3			
+WBDC_169	10	5	Spontaneum	Spontaneum	Spont	WBDC	Lebanon	33.500	35.780	0.013523	0.0057827	-0.00592	10			
+WBDC_170	10	5	Spontaneum	Spontaneum	Spont	WBDC	Lebanon	33.630	35.950	0.01602	0.0042836	-0.00074253	10			
+WBDC_195	10	5	Spontaneum	Spontaneum	Spont	WBDC	Turkey	36.810	37.220	0.017361	0.0045295	-0.0022339	10			
+WBDC_196	10	5	Spontaneum	Spontaneum	Spont	WBDC	Turkey	36.990	36.930	0.018104	0.0011339	0.0068445	10			
+WBDC_204	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	38.580	57.120	0.01357	-0.006565	-0.0053862	8			
+WBDC_207	8	5	Spontaneum	Spontaneum	Spont	WBDC	Uzbekistan	40.340	71.180	0.019998	-0.007989	0.014055	8			
+WBDC_210	8	5	Spontaneum	Spontaneum	Spont	WBDC	Uzbekistan	39.930	67.680	0.021819	-0.010874	0.016559	8			
+WBDC_212	3	5	Spontaneum	Spontaneum	Spont	WBDC	Uzbekistan	40.010	67.090	0.020505	-0.0054636	0.017956	3			
+WBDC_213	8	5	Spontaneum	Spontaneum	Spont	WBDC	Uzbekistan	39.550	66.560	0.018808	-0.0087352	0.0096886	8			
+WBDC_216	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	38.730	56.850	0.018907	-0.0083851	0.0098383	8			
+WBDC_220	3	5	Spontaneum	Spontaneum	Spont	WBDC	Kazakhstan	42.420	69.700	0.017797	-0.0096359	0.015807	3			
+WBDC_225	3	5	Spontaneum	Spontaneum	Spont	WBDC	Tajikistan	40.120	69.200	0.018402	-0.0099722	0.016942	3			
+WBDC_228	3	5	Spontaneum	Spontaneum	Spont	WBDC	Azerbaijan	40.490	49.190	0.016507	-0.0073986	0.011719	3			
+WBDC_229	4	5	Spontaneum	Spontaneum	Spont	WBDC	Azerbaijan	40.530	48.890	0.0083798	-0.001513	0.004623	3			
+WBDC_231	4	5	Spontaneum	Spontaneum	Spont	WBDC	Azerbaijan	40.710	48.800	0.008825	-0.0002625	0.0048614	3			
+WBDC_233	3	5	Spontaneum	Spontaneum	Spont	WBDC	Afghanistan	35.930	68.700	0.02163	-0.0083957	0.017355	3			
+WBDC_236	10	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.600	35.620	0.019241	0.0084483	0.00090721	10			
+WBDC_237	10	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.530	35.620	0.016715	0.0056573	-0.00062422	10			
+WBDC_257	8	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.180	35.700	0.010471	0.0026055	-0.0046832	8			
+WBDC_260	9	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	30.500	35.500	0.010537	0.0017603	-0.0056808	11			
+WBDC_265	8	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	30.930	35.670	0.0092305	0.0055623	-0.005703	8			
+WBDC_268	4	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.750	36.760	0.015529	-0.0078071	0.014364	3			
+WBDC_269	9	5	Spontaneum	Spontaneum	Spont	WBDC	Lebanon	33.420	35.870	0.015759	0.0054404	-0.0043771	11			
+WBDC_274	10	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	30.870	34.770	0.015278	0.0073819	-0.0063978	10			
+WBDC_285	10	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	32.980	35.450	0.016304	0.0043715	0.00032882	10			
+WBDC_286	8	5	Spontaneum	Spontaneum	Spont	WBDC	Israel	32.970	35.470	0.014988	0.0098887	-0.0053405	9			
+WBDC_297	3	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	37.060	41.750	0.019874	-0.0088371	0.0206	3			
+WBDC_300	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	36.370	36.860	0.015009	0.0027651	0.0034693	10			
+WBDC_315	3	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	34.940	36.850	0.015481	0.0041399	0.0037112	3			
+WBDC_317	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	35.520	38.760	0.022082	-0.008588	0.019076	10			
+WBDC_318	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	32.600	36.740	0.012834	0.0036628	0.0035635	10			
+WBDC_324	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	35.830	61.460	0.011782	-0.010101	0.00050757	8			
+WBDC_326	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	37.720	58.600	0.015895	-0.0084798	0.0062392	8			
+WBDC_332	3	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	38.430	56.420	0.021057	-0.0062204	0.018326	3			
+WBDC_333	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	38.410	56.490	0.015669	-0.0087373	-0.0046295	8			
+WBDC_336	3	5	Spontaneum	Spontaneum	Spont	WBDC	Turkmenistan	38.420	56.680	0.021654	-0.0084742	0.017303	3			
+WBDC_338	10	5	Spontaneum	Spontaneum	Spont	WBDC	Turkey	37.270	37.540	0.019481	0.0038116	0.0098855	10			
+WBDC001	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	36.220	36.700	0.014181	0.0041103	0.0025726	10			
+WBDC002	9	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	35.710	37.440	0.020157	-0.005479	0.010231	11			
+WBDC004	3	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	35.970	36.540	0.023288	-0.0070032	0.019569	3			
+WBDC006	5	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	32.300	36.170	0.016847	0.012901	-0.0099115	4			
+WBDC008	9	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	32.670	35.620	0.012422	0.0090585	-0.0087185	11			
+WBDC009	3	5	Spontaneum	Spontaneum	Spont	WBDC	Jordan	31.530	35.750	0.019712	-0.0085774	0.022424	3			
+WBDC010	3	5	Spontaneum	Spontaneum	Spont	WBDC	Afghanistan	36.670	65.730	0.017927	-0.0062505	0.014768	3			
+WBDC018	4	5	Spontaneum	Spontaneum	Spont	WBDC	Afghanistan	34.980	63.120	0.014866	-0.0060531	0.013936	3			
+WBDC020	8	5	Spontaneum	Spontaneum	Spont	WBDC	Turkey	36.850	40.030	0.010848	-0.010488	0.0017204	8			
+WBDC022	10	5	Spontaneum	Spontaneum	Spont	WBDC	Turkey	39.780	30.520	0.016196	0.0039805	0.00085182	10			
+WBDC061	10	5	Spontaneum	Spontaneum	Spont	WBDC	Syria	36.157	36.600	0.016822	0.0056914	0.0020112	10			
